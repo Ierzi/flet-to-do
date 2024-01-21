@@ -1,0 +1,4 @@
+default_daily_to_do: ["a", "b", "c"]
+user:
+  name: "admin"
+  birthday: "" # dd/mm/yy format
